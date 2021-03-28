@@ -1,0 +1,6 @@
+Installation:
+  clone the git repo
+Create Symlinks:
+  ln -s ~/.vim/vimrc ~/.vimrc
+
+Run the :PlugClean and :PlugInstall commands in VIM.
