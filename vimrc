@@ -9,7 +9,7 @@ map <c-j> <c-w>h<c-w>100<BAR>
 map <c-l> <c-w>l<c-w>100<BAR>
 map <c-i> <c-w>k
 map <c-k> <c-w>j
-command UpdateLatex execute "!~/UpdateLatex.sh %:p"
+command BuildLatex execute "!~/scripts/BuildLatex.sh %:p"
 set tabstop =2
 set shiftwidth =2
 set expandtab
