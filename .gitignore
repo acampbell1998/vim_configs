@@ -1,1 +1,4 @@
-/plugged
+plugged/
+after/
+autoload/
+.netrwhist
