@@ -8,6 +8,8 @@
 
   `git remote add origin https://github.com/acampbell1998/vim_configs.git`
 
+  `git checkout --track origin/master`
+
 - Create Symlinks:
 
   `ln -s ~/.vim/vimrc ~/.vimrc`
